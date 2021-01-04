@@ -42,11 +42,13 @@ The notebook **PLEASE_SPECIFY.ipynb** contains the dataset investigation steps a
 
 - **NaN values:** Describe the distribution of NaN values and the way they are handled (removed/imputed/calculated/modeled/ etc.)
 
-- **0/special values:** Describe the distribution of 0 / specialö values and the way they are handled (removed/imputed/calculated/modeled/ etc.)
+- **0/special values:** Describe the distribution of 0 / special values and the way they are handled (removed/imputed/calculated/modeled/ etc.)
 
 - **Dropping Columns:** Are there columns which can be dropped as they are not needed for modeling?
 
-- **Creating Dummies:** Are there categorical variables for which dummy or binary variables are needed to build a predicting model
+- **Creating Dummies:** Are there categorical variables for which dummy or binary variables are needed to build a predicting
+
+
 
 
 ## Modeling:
